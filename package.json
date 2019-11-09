@@ -1,7 +1,7 @@
 {
   "name": "orm-to-sequelize",
   "version": "1.0.0",
-  "description": "",
+  "description": "* Folder: `07-ORM-To-Sequelize/Unsolved`",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -25,5 +25,13 @@
     "jsdoc": "^3.6.3",
     "nodemon": "^1.19.4",
     "sequelize-cli": "^5.5.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccharles2388/sequelize-project-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ccharles2388/sequelize-project-template/issues"
+  },
+  "homepage": "https://github.com/ccharles2388/sequelize-project-template#readme"
 }
