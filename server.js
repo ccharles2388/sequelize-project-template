@@ -30,5 +30,5 @@ require('./routes/api-routes.js')(app);
 app.listen(PORT, function() {
   console.log(`SERVER LISTENING ON: http://localhost:${PORT}`);
   console.log('----------------------------');
-
+db.sequelize.sync();
 });
